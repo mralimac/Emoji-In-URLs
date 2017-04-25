@@ -14,4 +14,4 @@ If you run an apache server, you can use the .htaccess file. Make sure you repla
 You can also edit the server's conf file to add these redirects which is better than using a .htaccess file. The language is virtually the same
 
 ### Nginx
-If you run a Nginx server, you should use the nginx.conf file. Don't actaully copy paste the file into your server setup. Just take the code from this github and paste in the correct place.
+If you run a Nginx server, you should use the nginx.conf file. Don't actually copy paste the file into your server setup. Just take the code from this github and paste in the correct place.
