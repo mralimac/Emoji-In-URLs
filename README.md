@@ -1,4 +1,7 @@
 # Emoji-In-URLs
+
+By mralimac
+
 A quick guide on having Emojis in a URL
 
 ## Why bother with this?
